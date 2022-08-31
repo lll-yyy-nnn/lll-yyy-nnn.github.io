@@ -23,18 +23,17 @@ instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 #修改成你自己的
-email:
-phone:
-github:
-jianshu:
-juejin:
-csdn:
+email: 746706131@qq.com
+phone: 
+github: https://github.com/lll-yyy-nnn
+bilibili: https://space.bilibili.com/527946645
+
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus修改成你自己的
-discus_identifier: leach-chen
+discus_identifier: Enoch-Blog
 # Add your discus identifier
 
 #intensedebate修改成你自己的
