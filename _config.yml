@@ -64,10 +64,10 @@ exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 imagepath: /
 
 links:
-  - name:         Home
-    url:          https://www.leachchen.com
+  - name:         主页
+    url:          https://lll-yyy-nnn.github.io
     external:     false
-  - name:         About
+  - name:         关于
     url:          /blogdemo/about
     external:     false
 
@@ -82,15 +82,15 @@ label2:  </span>
 
 links1:
   - name:         所有
-    url:          /blog
+    url:          /
     type:         recent
     external:     false
   - name:         随笔
-    url:          /blogdemo/myblog/essays
+    url:          /myblog/essays
     type:         essays
     external:     false
   - name:         Jekyll
-    url:          /blogdemo/myblog/jekyll
+    url:          /myblog/jekyll
     type:         jekyll
     external:     false
 
