@@ -68,7 +68,7 @@ links:
     url:          https://lll-yyy-nnn.github.io
     external:     false
   - name:         关于
-    url:          /blogdemo/about
+    url:          /about
     external:     false
 
 #添加分类步骤：
