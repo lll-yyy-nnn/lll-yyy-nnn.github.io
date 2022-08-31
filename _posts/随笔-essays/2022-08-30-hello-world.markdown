@@ -9,12 +9,15 @@ author: Enoch
 essays: true
 ---
 
-{{site.label1}} <a href="https://github.com/leach-chen/blogdemo" target="\_blank">Leach Chen</a> {{site.label2}}
 
 Hello World！
 
 经过无数的报错，终于完成了！！！！安装了好多东西，调试了好久才搞好！！！
 网站使用leach-chen的模板制成
+
+发布在lll-yyy-nnn.github.io
+
+以下内容为原leach-chen 所写：
 
 **本网站有如下特点：**
 1. 网站托管于github，免费且无限流量,可指向自己的域名；
