@@ -1,4 +1,4 @@
-title: Blog - Leach Chen
+title: Blog - Enoch
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,7 +15,7 @@ about-author: I am an Android developer.I will add description latter.
 
 #修改成你自己的
 # Contact links
-website: # Add your website, do not add http://
+website: lll-yyy-nnn.github.io
 linkedin: # Add your Linkedin handle
 twitter: # Add your Twitter handle
 facebook: # Add your Facebook handle
@@ -61,7 +61,7 @@ plugins:
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-imagepath: /blogdemo
+imagepath: /
 
 links:
   - name:         Home
