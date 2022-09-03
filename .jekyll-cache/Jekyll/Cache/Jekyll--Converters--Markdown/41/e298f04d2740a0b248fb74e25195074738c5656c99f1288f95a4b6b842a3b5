@@ -1,0 +1,19 @@
+I"E<p>转载哔哩哔哩，原网址https://www.bilibili.com/read/cv18212306?spm_id_from=333.999.0.0
+时间：2022-08-21 15:16</p>
+
+<p>目前靠着网上自学几天，做了一个登录网页<br />
+https://denglu.vercel.app/<br />
+<img src="/assets/img/blog//dashang.jpg" /><br />
+自己做的网页但是<strong>不会JavaScript</strong>，没有任何判断逻辑<br />
+所以呢！去网上学学<br />
+有个<strong>判断密码是否符合大于6位数的代码</strong>，长这样<br />
+没问题，但是当我移植到我的网页上是，却什么也没发生，没有预想的效果<br />
+这是我网页html的一部分<br />
+我的代码经过无数次认真检查，终于发现了问题所在<br />
+我的html我写的id=”<strong>password</strong>“<br />
+但是<br />
+网上的代码他的函数是”<strong>passworld</strong>” !!!!!!<br />
+??????<strong>passworld</strong>是什么，还是说因为我是小白，不懂大佬的想法<br />
+刚学几天，能解答一下吗？<strong>passworld</strong>是什么？<br />
+<del>跳过这个世界？？？</del><br /></p>
+:ET

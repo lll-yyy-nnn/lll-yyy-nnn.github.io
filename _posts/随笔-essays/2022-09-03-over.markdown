@@ -1,0 +1,28 @@
+---
+layout: post
+title: over!完成了博客模板的汉化和自定义
+date:  2022-09-03 18:32:00 +0900
+description: 第二篇博客byEnoch
+img: post-2.jpg # Add image post (optional)
+tags: [随笔]
+author: Enoch
+essays: true
+---
+
+
+完成了博客的大部分内容<br>
+
+**下面介绍一下**<br>
+**1**.模板来自GitHub，由*Enoch*完成自定义，想要源码的话，直接点网页下方的STAR就行，会跳转到原作者的GitHub地址<br>
+**2**.统计方式由百度提供，但我使用了原作者的id，所以可能会有问题<br>
+**3**.修改了打赏界面<br>
+<img src="{{site.imagepath}}/assets/img/blog/over/dashang.jpg" /><br>
+这是原版界面<br>
+
+**4**.删除了一些无用的功能<br>
+**5**.修复部分BUG（都是自己造成的，哎）
+**6**.完成汉化（原作者用的英文界面）
+
+**然后是一些感想**<br>
+jekyll就像是将网页拼装起来，而且挺好理解的，感觉自己写一个博客网站出来也行，只是很麻烦，再加上我不会JavaScript。。。。<br>
+以后**一定**要学！！<br>
